@@ -1,4 +1,4 @@
-How to Use
+How to Use:
 
 Select a scale from the dropdown (e.g., C Major, A Minor).
 Click "Generate Random Chord Progression" to create a progression.
