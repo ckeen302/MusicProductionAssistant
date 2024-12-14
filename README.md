@@ -39,6 +39,4 @@ This project is licensed under the MIT License.
 Contact
 Feel free to reach out with questions or feedback:
 
-Your Name: Caden Keen
-Email: [your-email@example.com]
-GitHub: https://github.com/yourusername
+Email: cadenkeen@gmail.com
